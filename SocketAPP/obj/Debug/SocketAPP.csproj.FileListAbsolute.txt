@@ -1,0 +1,22 @@
+C:\Users\Adrien\Desktop\SocketAPP\SocketAPP\bin\Debug\SocketAPP.exe.config
+C:\Users\Adrien\Desktop\SocketAPP\SocketAPP\bin\Debug\SocketAPP.exe
+C:\Users\Adrien\Desktop\SocketAPP\SocketAPP\bin\Debug\SocketAPP.pdb
+C:\Users\Adrien\Desktop\SocketAPP\SocketAPP\obj\Debug\SocketAPP.csprojAssemblyReference.cache
+C:\Users\Adrien\Desktop\SocketAPP\SocketAPP\obj\Debug\SocketAPP.Form1.resources
+C:\Users\Adrien\Desktop\SocketAPP\SocketAPP\obj\Debug\SocketAPP.Properties.Resources.resources
+C:\Users\Adrien\Desktop\SocketAPP\SocketAPP\obj\Debug\SocketAPP.csproj.GenerateResource.cache
+C:\Users\Adrien\Desktop\SocketAPP\SocketAPP\obj\Debug\SocketAPP.csproj.CoreCompileInputs.cache
+C:\Users\Adrien\Desktop\SocketAPP\SocketAPP\obj\Debug\SocketAPP.exe
+C:\Users\Adrien\Desktop\SocketAPP\SocketAPP\obj\Debug\SocketAPP.pdb
+E:\TAFE\Diploma\Semester 2\C#-Xamarin\Assessment 3\SocketAPP\SocketAPP\bin\Debug\SocketAPP.exe.config
+E:\TAFE\Diploma\Semester 2\C#-Xamarin\Assessment 3\SocketAPP\SocketAPP\bin\Debug\SocketAPP.exe
+E:\TAFE\Diploma\Semester 2\C#-Xamarin\Assessment 3\SocketAPP\SocketAPP\bin\Debug\SocketAPP.pdb
+E:\TAFE\Diploma\Semester 2\C#-Xamarin\Assessment 3\SocketAPP\SocketAPP\obj\Debug\SocketAPP.Form1.resources
+E:\TAFE\Diploma\Semester 2\C#-Xamarin\Assessment 3\SocketAPP\SocketAPP\obj\Debug\SocketAPP.Properties.Resources.resources
+E:\TAFE\Diploma\Semester 2\C#-Xamarin\Assessment 3\SocketAPP\SocketAPP\obj\Debug\SocketAPP.csproj.GenerateResource.Cache
+E:\TAFE\Diploma\Semester 2\C#-Xamarin\Assessment 3\SocketAPP\SocketAPP\obj\Debug\SocketAPP.csproj.CoreCompileInputs.cache
+E:\TAFE\Diploma\Semester 2\C#-Xamarin\Assessment 3\SocketAPP\SocketAPP\obj\Debug\SocketAPP.exe
+E:\TAFE\Diploma\Semester 2\C#-Xamarin\Assessment 3\SocketAPP\SocketAPP\obj\Debug\SocketAPP.pdb
+E:\TAFE\Diploma\Semester 2\C#-Xamarin\Assessment 3\SocketAPP\SocketAPP\bin\Debug\Newtonsoft.Json.dll
+E:\TAFE\Diploma\Semester 2\C#-Xamarin\Assessment 3\SocketAPP\SocketAPP\bin\Debug\Newtonsoft.Json.xml
+E:\TAFE\Diploma\Semester 2\C#-Xamarin\Assessment 3\SocketAPP\SocketAPP\obj\Debug\SocketAPP.csprojResolveAssemblyReference.cache
